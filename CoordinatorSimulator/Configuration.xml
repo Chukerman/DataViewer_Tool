@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+	<COMName>COM4</COMName>
+	<BaudRate>38400</BaudRate>
+	<Routers>
+		<Router>1</Router>
+	</Routers>
+</Configuration>
